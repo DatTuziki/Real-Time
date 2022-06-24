@@ -1,1 +1,1 @@
-# Real-Time
+Sử dụng PIC16F887 để hiển thị thời gian khoảnh khắc với timmer break để chạy thời gian khoảnh khắc chính xác với 1 giây và vi điều khiển ESP8266 để kết nối với wifi và lấy dữ liệu thời gian từ internet và sau đó chuyển dữ liệu sang PIC16F887 bằng cách sử dụng phương pháp kết nối UART để hiển thị LED LCD.
